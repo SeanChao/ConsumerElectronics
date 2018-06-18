@@ -1,0 +1,13 @@
+[
+    {
+        "brand":"小米",
+        "model":"小米8",
+        "version":0,
+        "price":2699,
+        "SoC":"骁龙845",
+    },
+    {
+        "brand":"三星",
+        "model":"Galaxy S9+",
+    }
+]

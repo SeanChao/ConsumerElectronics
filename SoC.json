@@ -1,0 +1,11 @@
+[
+    {
+        "brand":"高通",
+        "model":"骁龙845",
+        "cores_number":8,
+        "cores_details":"4*2.8Ghz+4*1.8Ghz"
+        "clock_speed":2.8, //GHz
+        "architecutre":"Kyro 385",
+        "process":"10nm LPP Gen2 ",    
+    }
+]
