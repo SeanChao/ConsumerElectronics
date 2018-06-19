@@ -7,8 +7,28 @@
         "price":2699,
         "SoC":"骁龙845",
         "RAM":6, //GB
-        "RAM_type":"LPDDR4x"
-
+        "RAM_type":"LPDDR4x",
+    	"ROM":64, //GB
+    	"ROM_type":"UFS 2.1",
+    	"size":[154.9,74.8,7.6], //length,width,height(cm)
+    	"weight":175, //g
+    	"screen_size":6.21,
+    	"resolution":"2248*1080",
+    	"PPI":402 ,
+    	"screen_type":"AMOLED",
+    	"color_range_sRGB":1.0 ,
+    	"screen_contrast_ratio":,
+    	"screen_technology":"on-cell",
+        "max_brig htness":600, //nit
+        "rear_camera":[
+            {"id":"0","resolution":1200,"model":"Sony IMX 363","f":1.8,"pixel_size":"1.4","focusing":"Dual PD"},
+            {"id":"1","resolution":1200,"model":"Samsung S5K3M3","f":2.4,"pixel_size":"1.0","focusing":""}
+        ],
+        "front_camera":{"resolution":2000,"model":"","f":,"pixel_size":"","focusing":""},
+    	"battery_capacity":3400 , //mAh
+    	"quick_charge":"QC4+",
+        "fingerprint":"后置",
+        "bio_identification":"2D红外人脸识别"
     },
     {
         //for SoC.json
